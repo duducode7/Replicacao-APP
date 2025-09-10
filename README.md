@@ -4,6 +4,7 @@ Este projeto foi desenvolvido como parte da Atividade 12 - Criação de Nova Fun
 
 O aplicativo escolhido foi o C6 Bank, onde foi adicionada uma nova funcionalidade de Investimento com Metas, permitindo que o usuário acompanhe o progresso dos seus objetivos financeiros de forma simples e visual.
 
+
 🚀 Funcionalidade Proposta
 
 A nova funcionalidade adicionada é a seção Investir com Objetivos, que permite:
@@ -17,6 +18,7 @@ Botão de Investir Mais para adicionar novos valores.
 Botão de Resgatar para retirar o dinheiro quando necessário.
 
 Informações claras sobre onde o dinheiro será investido.
+
 
 🎨 Interface Desenvolvida
 
